@@ -1,0 +1,2 @@
+/path/to/training/data1.bin,/path/to/training/label1.bin,/path/to/training/mask1.bin,/path/to/training/rho1.bin
+/path/to/training/data2.bin,/path/to/training/label2.bin,/path/to/training/mask2.bin,/path/to/training/rho2.bin
